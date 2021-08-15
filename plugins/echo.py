@@ -79,7 +79,7 @@ HELP = '''<code>help</code> -> <b>for this help menu</b>\n
 <code>xhams-help</code> <b> -> Scrape Xhamster Search Page</b>\n
 <code>xvid-help</code> <b> -> Generate Xvidoes Search Page Links</b>\n
 <code>about <b> -> About</b></code>
-<b>Any Question or Adding features\n->>> @indexoutbound <<<-/b>'''
+<b>Any Question or Adding features\n->>> @indexoutbound <<<-</b>'''
 
 ABOUT_TEXT = """
 - **Bot :** `Simple Scraper`
