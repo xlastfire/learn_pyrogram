@@ -1,6 +1,6 @@
 # Simple Scraping Bot
 
-A simple url uploader bot with permenent thumbnail support
+A simple news scraping bot from local web sites.
 
 ## Deploy 
 
